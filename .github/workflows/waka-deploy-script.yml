@@ -13,7 +13,6 @@ jobs:
   update-readme:
     name: MY time! 🌈
     runs-on: ubuntu-latest
-    
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
