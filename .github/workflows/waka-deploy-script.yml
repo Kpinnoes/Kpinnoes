@@ -1,6 +1,9 @@
 name: 🌈🚀🖐🏻
 
 on:
+  push:
+    branches:
+      - main
   #schedule:
     # 3AM 
   #  - cron: '0 20 * * *'
