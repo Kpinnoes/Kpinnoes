@@ -10,8 +10,8 @@
 
 ## About Me 🙋🏻‍♀️ 🌱
  - 📚 Learn at **Information Technology, School of Information Technology at KMUTT, Thailand.** 🏫 
- - 💻 Now, I try to learn about UX/UI designer and FrontEnd Developer. 🐬
- -  🏃🏻‍♀️ If I can achieve what I am learning to achieve my goals, then I will do well in this work. 🖌
+ - 💻 Now, I try to learn about __UX/UI designer__ and __FrontEnd Developer__. 🐬
+ - 🏃🏻‍♀️ If I can achieve what I am learning to achieve my goals, then I will do well in this work. 🖌
 
 ## Contact Me📱
 
@@ -20,8 +20,9 @@
 - 𝗔𝗹𝗰𝗵𝗲𝗺𝗶𝘀𝘁 𝗪𝗲𝗯𝘀𝗶𝘁𝗲 🌄 : [Contact of work](https://alchemist-softwarehouse.co/)
 
 ## 𝐐𝐮𝐨𝐭𝐚𝐭𝐢𝐨𝐧 🏔 🗯
-If my dark under-eye circles were pandas right now (🐼). Then think for the future that I will become a dragon warrior (🗡🛡🐲) like Kung Fu Panda. 🐉 ☺
-###### "𝙄𝙛 𝙢𝙮 𝙙𝙖𝙧𝙠 𝙘𝙞𝙧𝙘𝙡𝙚𝙨 𝙬𝙚𝙧𝙚 𝙥𝙖𝙣𝙙𝙖𝙨 𝙧𝙞𝙜𝙝𝙩 𝙣𝙤𝙬. 🐼𝙏𝙝𝙚𝙣 𝙩𝙝𝙞𝙣𝙠 𝙛𝙤𝙧 𝙩𝙝𝙚 𝙛𝙪𝙩𝙪𝙧𝙚 𝙩𝙝𝙖𝙩 𝙄 𝙬𝙞𝙡𝙡 𝙗𝙚𝙘𝙤𝙢𝙚 𝙖 𝙙𝙧𝙖𝙜𝙤𝙣 𝙬𝙖𝙧𝙧𝙞𝙤𝙧 (🗡🛡🐲) 𝙡𝙞𝙠𝙚 𝙆𝙪𝙣𝙜 𝙁𝙪 𝙋𝙖𝙣𝙙𝙖.🐉 ☺ " ######
+If my __dark under-eye circles__ were pandas right now (🐼).
+
+Then think for the future that I will become a __dragon warrior__ (🗡🛡🐲) like __Kung Fu Panda__. 🐉 ☺ 
 
 ## My Activities 💻 🕰
 <!--START_SECTION:waka-->
