@@ -30,7 +30,13 @@ If my __dark under-eye circles__ were pandas right now (🐼).
 
 Then think for the future that I will become a __dragon warrior__ (🗡🛡🐲) like __Kung Fu Panda__. 🐉
 
+
+
 ## My Activities 💻 🕰
+![Kpinnoes's GitHub stats](https://github-readme-stats.vercel.app/api?username=kpinnoes&show_icons=true&theme=solarized-light)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kpinnoes&layout=compact&langs_count=10&theme=solarized-light)](https://github.com/kpinnoes/github-readme-stats)
+
+
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
