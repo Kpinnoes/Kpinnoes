@@ -9,9 +9,11 @@
 - You can talk with me or give advice if I do something wrong! 📧
 
 ## About Me 🙋🏻‍♀️ 🌱
- - 📚 Learn at **Information Technology, School of Information Technology at KMUTT, Thailand.** 🏫 
- - 💻 Now, I try to learn about __UX/UI designer__ and __FrontEnd Developer__. 🐬
- - 🏃🏻‍♀️ If I can achieve what I am learning to achieve my goals, then I will do well in this work. 🖌
+ 📚 Learn at **Information Technology**, School of Information Technology at KMUTT, Thailand. 🏫 
+
+ 💻 Now, I try to learn about __UX/UI designer__ and __FrontEnd Developer__. 🐬
+
+ 🏃🏻‍♀️ If I can achieve what I am learning to achieve my goals, then I will do well in this work. 🖌
 
 ## Contact Me📱
 
