@@ -10,6 +10,8 @@
 - You can talk with me or give advice if I do something wrong! 
 
 ## About Me 🙋🏻‍♀️ 🌱
+ 👩🏻‍💼 : Khorapin Gadpu.
+ 
  📚 : Learn at **Information Technology**, School of Information Technology at KMUTT, Thailand. 
 
  💻 : Now, I try to learn about __UX/UI designer__ and __FrontEnd Developer__. 
