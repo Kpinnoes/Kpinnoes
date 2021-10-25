@@ -4,16 +4,17 @@
               𝗿𝗮𝘆𝗼𝗻𝗴𝘄𝗶𝘁 𝟭𝟭𝟵 | 𝗘𝗻𝗴𝗹𝗶𝘀𝗵-𝗽𝗿𝗼𝗴𝗿𝗮𝗺 𝟭𝟲 𝘀𝗰𝗶-𝗺𝗮𝘁𝗵 𝟳 | 𝘀𝗶𝘁 𝗞𝗺𝘂𝘁𝘁 𝗶𝘁 𝟮𝟱🖋
                      ⚡️ ʕ•̀ω•́ʔ✧ ʕ♡˙ᴥ˙♡ʔ ʕ·ᴥ·　ʔ 💫
 
-## What I want to say.💬 🌤 
-- Nice to meet you ! I want to try my best for do my work. ⛈ 
-- You can talk with me or give advice if I do something wrong! 📧
+## What I want to say.💬 📧 
+
+- Nice to meet you ! I want to try my best for do my work.  
+- You can talk with me or give advice if I do something wrong! 
 
 ## About Me 🙋🏻‍♀️ 🌱
- 📚 Learn at **Information Technology**, School of Information Technology at KMUTT, Thailand. 🏫 
+ 📚 : Learn at **Information Technology**, School of Information Technology at KMUTT, Thailand. 🏫 
 
- 💻 Now, I try to learn about __UX/UI designer__ and __FrontEnd Developer__. 🐬
+ 💻 : Now, I try to learn about __UX/UI designer__ and __FrontEnd Developer__. 🐬
 
- 🏃🏻‍♀️ If I can achieve what I am learning to achieve my goals, then I will do well in this work. 🖌
+ 🏃🏻‍♀️ : If I can achieve what I am learning to achieve my goals, then I will do well in this work. 🖌
 
 ## Contact Me📱
 
