@@ -67,10 +67,10 @@ Sunday       28 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     3 hrs               █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 17/01/2022
+ Last Updated on 18/01/2022
 <!--END_SECTION:waka-->
