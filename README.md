@@ -34,7 +34,7 @@ Then think for the future that I will become a __dragon warrior__ (🗡🛡🐲)
 
 ## My Activities 💻 🕰
 ![Kpinnoes's GitHub stats](https://github-readme-stats.vercel.app/api?username=kpinnoes&show_icons=true&theme=nightowl)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kpinnoes&layout=compact&langs_count=10&theme=nightowl)](https://github.com/kpinnoes/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kpinnoes&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/kpinnoes/github-readme-stats)
 
 
 <!--START_SECTION:waka-->
