@@ -67,10 +67,10 @@ Sunday       25 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Vue.js                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 28/03/2022 20:14:48 UTC
+ Last Updated on 29/03/2022 20:13:55 UTC
 <!--END_SECTION:waka-->
