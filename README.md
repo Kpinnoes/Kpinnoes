@@ -67,11 +67,10 @@ Sunday       23 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-HTML                     3 hrs 32 mins       ███████████████████████░░   94.03% 
-Vue.js                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.97%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 06/04/2022 20:13:57 UTC
+ Last Updated on 07/04/2022 20:14:55 UTC
 <!--END_SECTION:waka-->
