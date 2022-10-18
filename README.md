@@ -38,7 +38,7 @@ Then think for the future that I will become a __dragon warrior__ (🗡🛡🐲)
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-311%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-313%20hrs%205%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -74,5 +74,5 @@ C#                       3 hrs 34 mins       ███████████�
 ```
 
 
- Last Updated on 17/10/2022 20:18:11 UTC
+ Last Updated on 18/10/2022 20:18:08 UTC
 <!--END_SECTION:waka-->
