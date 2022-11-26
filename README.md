@@ -38,7 +38,7 @@ Then think for the future that I will become a __dragon warrior__ (🗡🛡🐲)
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-341%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-342%20hrs%2028%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -69,13 +69,13 @@ Sunday       25 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-HTML                     9 hrs 3 mins        █████████████░░░░░░░░░░░░   53.58% 
-C#                       7 hrs 48 mins       ███████████░░░░░░░░░░░░░░   46.17% 
+HTML                     9 hrs 57 mins       ██████████████░░░░░░░░░░░   56.81% 
+C#                       7 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   42.95% 
 JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24% 
 CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 ```
 
 
- Last Updated on 25/11/2022 20:13:25 UTC
+ Last Updated on 26/11/2022 20:12:57 UTC
 <!--END_SECTION:waka-->
