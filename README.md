@@ -69,10 +69,10 @@ Sunday       10 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       0 secs              █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 06/01/2023 20:13:07 UTC
+ Last Updated on 07/01/2023 20:11:49 UTC
 <!--END_SECTION:waka-->
