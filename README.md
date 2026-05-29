@@ -38,6 +38,38 @@ Then think for the future that I will become a __dragon warrior__ (🗡🛡🐲)
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-364%20hrs%2032%20mins-blue?style=flat)
 
- Last Updated on 28/05/2026 21:51:26 UTC
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                21 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
+🌆 Daytime                43 commits          █████████░░░░░░░░░░░░░░░░   34.68 % 
+🌃 Evening                18 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+🌙 Night                  42 commits          ████████░░░░░░░░░░░░░░░░░   33.87 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   42 commits          ████████░░░░░░░░░░░░░░░░░   33.87 % 
+Tuesday                  10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+Wednesday                10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+Thursday                 11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+Friday                   30 commits          ██████░░░░░░░░░░░░░░░░░░░   24.19 % 
+Saturday                 12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Sunday                   9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 29/05/2026 21:49:40 UTC
 <!--END_SECTION:waka-->
