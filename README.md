@@ -38,6 +38,8 @@ Then think for the future that I will become a __dragon warrior__ (🗡🛡🐲)
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-364%20hrs%2032%20mins-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -69,5 +71,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 07/06/2026 21:06:18 UTC
+ Last Updated on 08/06/2026 21:46:53 UTC
 <!--END_SECTION:waka-->
