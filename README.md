@@ -38,44 +38,6 @@ Then think for the future that I will become a __dragon warrior__ (🗡🛡🐲)
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-360%20hrs%2045%20mins-blue?style=flat)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                21 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-🌆 Daytime                43 commits          █████████░░░░░░░░░░░░░░░░   34.68 % 
-🌃 Evening                18 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-🌙 Night                  42 commits          ████████░░░░░░░░░░░░░░░░░   33.87 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   42 commits          ████████░░░░░░░░░░░░░░░░░   33.87 % 
-Tuesday                  10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
-Wednesday                10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
-Thursday                 11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
-Friday                   30 commits          ██████░░░░░░░░░░░░░░░░░░░   24.19 % 
-Saturday                 12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-Sunday                   9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-
- Last Updated on 05/08/2026 21:02:07 UTC
+ Last Updated on 07/08/2026 00:51:03 UTC
 <!--END_SECTION:waka-->
